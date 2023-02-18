@@ -279,13 +279,7 @@ Contribution are always welcome and recommended! Here is how:
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/GNU)
 
-
-
 [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-
-## Support
-
-Star Repo If Like It ...
 
 <div align="center"> Developed With Love ! ❤️</div>
