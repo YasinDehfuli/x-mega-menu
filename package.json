@@ -1,25 +1,30 @@
 {
-  "name": "x-mege-menu",
-  "version": "1.0.0",
+  "name": "x-mega-menu",
+  "version": "1.4.1",
   "description": "vanilla javascript mega menu easy use",
   "main": "index.js",
   "scripts": {
-    "scss": "node-sass --watch src -o dist"
+    "scss": "node-sass --watch src/x-mega-menu.scss -o dist",
+    "build": "node src/build.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/A1Gard/x-mege-menu.git"
+    "url": "git+https://github.com/4xmen/x-mega-menu"
   },
   "keywords": [
     "mega",
     "menu",
     "responsive",
-    "menu"
+    "menu",
+    "megamenu"
   ],
   "author": "4xmen",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/A1Gard/x-mege-menu/issues"
+    "url": "https://github.com/4xmen/x-mega-menu/issues"
   },
-  "homepage": "https://github.com/A1Gard/x-mege-menu#readme"
+  "homepage": "https://github.com/4xmen/x-mega-menu#readme",
+  "devDependencies": {
+    "minify": "^9.2.0"
+  }
 }
